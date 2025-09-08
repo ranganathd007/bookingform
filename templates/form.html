@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Appointment Booking</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        form { width: 300px; margin: auto; }
+        label { display: block; margin-top: 10px; }
+        input, button { width: 100%; padding: 8px; margin-top: 5px; }
+        button { background: green; color: white; border: none; cursor: pointer; }
+        button:hover { background: darkgreen; }
+    </style>
+</head>
+<body>
+    <h2>Book an Appointment</h2>
+    <form method="POST" action="/submit">
+        <label>Name:</label>
+        <input type="text" name="name" required>
+
+        <label>Email:</label>
+        <input type="email" name="email" required>
+
+        <label>Phone:</label>
+        <input type="tel" name="phone">
+
+        <label>Date:</label>
+        <input type="date" name="date" required>
+
+        <label>Time:</label>
+        <input type="time" name="time" required>
+
+        <button type="submit">Book Now</button>
+    </form>
+</body>
+</html>

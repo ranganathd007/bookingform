@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "booking-app-470114",
+  "private_key_id": "d1dfa1f1dea539c23f1190586392b81fb4bbbcca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD7/mvI0Yu4y5U7\nPhjmuXfKwcOBOT7Z0CXMq24bclmbgP6yt+HnaLZtflxfS+S7YVy5lgfiu+vKRrQ0\nH5Fy0chWBybmRHSoZQbMb+DGJzOIyWLXP4/3r8nxespDqm2BlUB3PBA/JCDpO3Fk\n1fadyTm5e0a3GWV+ojKJLBri6gIsDcxYTEv9ZnF7DyP6j+nUrZqeR/+vRX+6dRo5\n6uNhRdXRSyCvrwT2dnc09UYxFXRDpbUL48MZg7krBwuNQ4pjPNisBvgYmx8yFAKD\n2qy2YkCgqG4F16FOBsh33C4nrOqSa9izgKRnM1OrFYieOwYm01+gUQ1IOBdSa7LR\nluTtQ4nhAgMBAAECggEAAudwsAMYX2TNu3MSES/M9A52+Zlqj8gsFQNwALjDnyTt\nvSr84LhycJk4uMKt4B9db3hYRDY5amaq50ZKnDe+PZMQ0ULTqRiRIIL6JJB2tyOn\n1rkUCGUbdb5oyrOMljuStKO8dcd9igXkyaD6CfbD5PnD09f9pTelb1LNkcTuftn+\nlg7Pz1Crt7iWN8G9+GTGv+V4sav1k8ued8assKprjgNCsEImxuEJs/UwrDdC5Hh1\nhX89lKQYEqPu5uQnNUg3AWGOxywTnxdU2MWCLukTGawC1XdywTAgTUfNaC5bs5R1\nGTG3M7N2Q3K0o/KNsB3mbSqAtlhx0AyFp023Lxni8QKBgQD+FkHEXXhZ9ES5k8bj\nM/2W5C23L8cY6kFmzlB/q4ake2oBIMRhQ5CUaS84vXNiS4cAQVMDhas53SLE0Z8v\ndAZwWzI0vQYwVY9PRBsxczRO9V1nX7QIfxVlmh63+v9E3PkOu2NDCYuKFUM4pDHd\nlewYno4NwCx030zAgsLmQNCJcQKBgQD95CE2uH1JpnpxoQVTGZTQiUSoIfKerqK+\nyiEXepc6SLAG9OreGd/2N28YdtN4jrw47v+k0cBCql+5l05egFEbvmk4Ih2AYlQK\nE9M9oQYgsyScCtFgK+Qp2RuTvVBFTiCcSVeuChkJlfHq+UyZYtqYK5xihXULUm7K\n74kONR1PcQKBgQDvuf4ZD/tCG9ZPpR6sNNxY5jY/tMNLPZGxNoz6t9HUFGDCabD+\n96lMbSVRimV34zyfQALbutz/PiXUvtZLBlQg49otqf5R0hfhOKfTcxdyO8wBgWkx\n7v04HD5JZXY8+aO+g4w2rqXKBR+kLD6kCxRzcf0i+iK3rgsTQwwyBAr88QKBgAVx\nZ5jhuaXjkMpw1kliygLyfmtQVwA55DlM4gq70RQpzMRJaeObEGcZ5yLSIVR7UuOx\nk/93k7SaLHUxHjf+bj63BVBzwsgm04BnzmaK1jPLQ2SpArYaGske4212aIsj0qUn\nGV8czk6bTVVpRNAhA2ixvqeKDulQOhnVqs2IK/mxAoGBALA4EnwoPXoHEC2t/hsT\npHtw+8rRKXA2whHtfXc8B0z/fY2CZYDVIltkKeNWeeRxqXZrZHN/8oA/RRYBx16Z\nOtI1vnS37djR9Mj/+TuKXbRVUjSmr7d9QU50Wiw1HkR6WSvmu9KD/WswFCl4bqR8\nkaYOVqv7fWgvjPvHTi5UDVck\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-for-booking@booking-app-470114.iam.gserviceaccount.com",
+  "client_id": "106864683145362930094",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-for-booking%40booking-app-470114.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
